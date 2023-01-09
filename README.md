@@ -1,5 +1,5 @@
 ### Hi, I’m [Alston](alstond.me)! 👋
-- 💼 I'm currently studying Computer Science at UWaterloo.
+- 🎓 I'm currently studying Computer Science at UWaterloo.
 - 👀 I’m interested in Machine Learning and Artificial Intelligence.
 - ⛱ Outside of coding, I enjoy running, playing cricket and reading.
 
