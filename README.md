@@ -3,9 +3,9 @@
 - 👀 I’m interested in Machine Learning and Artificial Intelligence.
 - ⛱ Outside of coding, I enjoy running, playing cricket and reading.
 
-![Alston's GitHub stats](https://github-readme-stats.vercel.app/api?username=als10&count_private=true&show_icons=true&theme=onedark)
+[![Alston's GitHub stats](https://github-readme-stats.vercel.app/api?username=als10&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=als10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=als10&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 als10/als10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
